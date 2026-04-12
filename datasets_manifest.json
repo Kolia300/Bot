@@ -1,6 +1,13 @@
 {
   "archives": [
     {
+      "archive_name": "btc-eth-updown-last-24h_20260411_111500Z.tar.gz",
+      "source_dir": "btc-eth-updown-last-24h_20260411_111500Z",
+      "source_size_bytes": 7625947322,
+      "source_size_gb": 7.102,
+      "note": "Legacy archived batch from local research workspace."
+    },
+    {
       "archive_name": "btc-sandwich-stream-last-96h_20260411_111500Z.tar.gz",
       "source_dir": "btc-sandwich-stream-last-96h_20260411_111500Z",
       "source_size_bytes": 9646693,
