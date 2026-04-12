@@ -1,0 +1,11 @@
+{
+  "archives": [
+    {
+      "archive_name": "btc-sandwich-stream-last-96h_20260411_111500Z.tar.gz",
+      "source_dir": "btc-sandwich-stream-last-96h_20260411_111500Z",
+      "source_size_bytes": 9646693,
+      "source_size_gb": 0.009,
+      "note": "Legacy archived batch from local research workspace."
+    }
+  ]
+}

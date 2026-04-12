@@ -1,10 +1,8 @@
-Dataset upload staging repo for hourly BTC Polymarket/Kalshi research batches.
+Dataset upload staging repo for archived orderbooks batches.
 
-## Files
+## Archives
 
-- `datasets/btc-hourly-poly-kalshi-prev24h_20260411_230000Z.tar.gz`
-  - Full 24-hour same-hour Polymarket/Kalshi BTC hourly dataset.
-
-- `datasets/btc-hourly-poly-kalshi-prev336h_20260411_230000Z_partial.tar.gz`
-  - Partial 14-day dataset snapshot.
-  - Includes the downloaded state reached during the long-running collection process.
+- `datasets/btc-sandwich-stream-last-96h_20260411_111500Z.tar.gz`
+  - source: `btc-sandwich-stream-last-96h_20260411_111500Z`
+  - size: `0.009 GB` before archiving
+  - note: Legacy archived batch from local research workspace.
