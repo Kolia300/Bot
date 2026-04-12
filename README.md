@@ -18,3 +18,7 @@ Dataset upload staging repo for archived orderbooks batches.
   - source: `btc-updown-last-24h_20260411_111500Z`
   - size: `7.714 GB` before archiving
   - note: Legacy archived batch from local research workspace.
+- `datasets/btc-updown-last-4h_20260410_205350Z.tar.gz`
+  - source: `btc-updown-last-4h_20260410_205350Z`
+  - size: `1.381 GB` before archiving
+  - note: Legacy archived batch from local research workspace.

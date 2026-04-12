@@ -27,6 +27,13 @@
       "source_size_bytes": 8282643921,
       "source_size_gb": 7.714,
       "note": "Legacy archived batch from local research workspace."
+    },
+    {
+      "archive_name": "btc-updown-last-4h_20260410_205350Z.tar.gz",
+      "source_dir": "btc-updown-last-4h_20260410_205350Z",
+      "source_size_bytes": 1482477332,
+      "source_size_gb": 1.381,
+      "note": "Legacy archived batch from local research workspace."
     }
   ]
 }
