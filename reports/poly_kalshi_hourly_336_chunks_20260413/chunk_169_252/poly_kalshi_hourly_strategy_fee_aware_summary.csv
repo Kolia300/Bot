@@ -1,0 +1,7 @@
+entry_cap_cents,take_profit_cents,stop_loss_cents,entries,win_count,loss_count,flat_count,win_rate_pct,take_profit_count,stop_loss_count,time_stop_count,total_realized_pnl_usd_10sh,avg_realized_pnl_usd_10sh,median_realized_pnl_usd_10sh,median_entry_cost_fee_aware_usd_10sh,median_entry_cost_raw_cents,median_width_usd,median_entry_minute,median_latency_seconds,poly_low_kalshi_high_count,kalshi_low_poly_high_count
+45.0,15.0,10.0,2,0,2,0,0.0,0,2,0,-2.5674,-1.2837,-1.2837,4.5848,43.5,300.0,11.8915,1.0,2,0
+45.0,20.0,10.0,2,0,2,0,0.0,0,2,0,-2.5674,-1.2837,-1.2837,4.5848,43.5,300.0,11.8915,1.0,2,0
+50.0,15.0,10.0,2,0,2,0,0.0,0,2,0,-2.6174,-1.3087,-1.3087,4.8498,46.0,300.0,8.758,1.0,2,0
+50.0,20.0,10.0,2,0,2,0,0.0,0,2,0,-2.6174,-1.3087,-1.3087,4.8498,46.0,300.0,8.758,1.0,2,0
+55.0,15.0,10.0,2,0,2,0,0.0,0,2,0,-2.7574,-1.3787,-1.3787,5.1098,48.5,300.0,7.6915,1.0,2,0
+55.0,20.0,10.0,2,0,2,0,0.0,0,2,0,-2.7574,-1.3787,-1.3787,5.1098,48.5,300.0,7.6915,1.0,2,0

@@ -1,0 +1,5 @@
+chunk,trades_rows,hours_with_geometry,best_entry_cap_cents,best_take_profit_cents,best_entries,best_total_realized_pnl_usd_10sh
+chunk_001_084,42,78,45.0,15.0,4,-6.4793
+chunk_085_168,28,75,45.0,15.0,4,-5.4104
+chunk_169_252,12,84,45.0,15.0,2,-2.5674
+chunk_253_336,14,80,55.0,15.0,3,1.7907

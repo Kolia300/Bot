@@ -1,0 +1,41 @@
+{
+  "best_config": {
+    "entry_cap_cents": 45.0,
+    "take_profit_cents": 15.0,
+    "stop_loss_cents": 10.0,
+    "entries": 12,
+    "win_count": 1,
+    "loss_count": 11,
+    "flat_count": 0,
+    "win_rate_pct": 8.333,
+    "take_profit_count": 1,
+    "stop_loss_count": 11,
+    "time_stop_count": 0,
+    "total_realized_pnl_usd_10sh": -12.9616,
+    "avg_realized_pnl_usd_10sh": -1.0801,
+    "median_realized_pnl_usd_10sh": -1.4512,
+    "median_entry_cost_fee_aware_usd_10sh": 4.6425,
+    "median_entry_cost_raw_cents": 44.0,
+    "median_width_usd": 300.0,
+    "median_entry_minute": 8.2415,
+    "median_latency_seconds": 1.0,
+    "poly_low_kalshi_high_count": 10,
+    "kalshi_low_poly_high_count": 2
+  },
+  "total_trade_rows": 96,
+  "unique_hours_with_entries": 19,
+  "geometry_summary": {
+    "hour_rows_with_geometry": 317,
+    "hours_had_any_full_guardrails": 19,
+    "total_seconds_in_entry_window": 285617,
+    "total_geometry_seconds_width_100_300": 100271,
+    "total_geometry_seconds_midpoint_ok": 27233,
+    "total_geometry_seconds_full_guardrails": 1403
+  },
+  "outputs": {
+    "summary_all": "C:\\Users\\Leva\\Desktop\\pavel\\strategy_reports\\poly_kalshi_hourly_336_chunks_20260413\\combined\\poly_kalshi_hourly_strategy_fee_aware_summary_all.csv",
+    "trades_all": "C:\\Users\\Leva\\Desktop\\pavel\\strategy_reports\\poly_kalshi_hourly_336_chunks_20260413\\combined\\poly_kalshi_hourly_strategy_fee_aware_trades_all.csv",
+    "chunk_summary": "C:\\Users\\Leva\\Desktop\\pavel\\strategy_reports\\poly_kalshi_hourly_336_chunks_20260413\\combined\\poly_kalshi_hourly_strategy_fee_aware_chunk_summary.csv",
+    "geometry_all": "C:\\Users\\Leva\\Desktop\\pavel\\strategy_reports\\poly_kalshi_hourly_336_chunks_20260413\\combined\\poly_kalshi_hourly_strategy_fee_aware_geometry_all.csv"
+  }
+}

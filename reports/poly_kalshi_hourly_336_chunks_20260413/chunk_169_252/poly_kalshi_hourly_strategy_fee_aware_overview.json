@@ -1,0 +1,67 @@
+{
+  "batch_dir": "C:\\Users\\Leva\\Desktop\\pavel\\orderbooks_intraday\\btc-hourly-poly-kalshi-prev336h_20260411_230000Z",
+  "pricing": {
+    "polymarket_fee_formula": "fee = C * 0.072 * p * (1-p)",
+    "kalshi_fee_formula": "fee = ceil_to_cent(0.07 * C * p * (1-p))",
+    "shares_per_leg": 10.0
+  },
+  "strategy": {
+    "width_usd_range": [
+      100.0,
+      300.0
+    ],
+    "entry_window_seconds": 900,
+    "time_stop_seconds": 2400,
+    "entry_cap_cents": [
+      45.0,
+      50.0,
+      55.0
+    ],
+    "take_profit_cents": [
+      15.0,
+      20.0
+    ],
+    "stop_loss_cents": 10.0,
+    "leg_bounds_cents": [
+      5.0,
+      30.0
+    ],
+    "midpoint_tolerance_of_width": 0.1
+  },
+  "best_config": {
+    "entry_cap_cents": 45.0,
+    "take_profit_cents": 15.0,
+    "stop_loss_cents": 10.0,
+    "entries": 2,
+    "win_count": 0,
+    "loss_count": 2,
+    "flat_count": 0,
+    "win_rate_pct": 0.0,
+    "take_profit_count": 0,
+    "stop_loss_count": 2,
+    "time_stop_count": 0,
+    "total_realized_pnl_usd_10sh": -2.5674,
+    "avg_realized_pnl_usd_10sh": -1.2837,
+    "median_realized_pnl_usd_10sh": -1.2837,
+    "median_entry_cost_fee_aware_usd_10sh": 4.5848,
+    "median_entry_cost_raw_cents": 43.5,
+    "median_width_usd": 300.0,
+    "median_entry_minute": 11.8915,
+    "median_latency_seconds": 1.0,
+    "poly_low_kalshi_high_count": 2,
+    "kalshi_low_poly_high_count": 0
+  },
+  "hour_index_range": {
+    "start_index": 169,
+    "end_index": 252,
+    "total_hour_rows_in_batch": 336,
+    "selected_hour_rows": 84
+  },
+  "output_files": {
+    "summary": "C:\\Users\\Leva\\Desktop\\pavel\\strategy_reports\\poly_kalshi_hourly_336_chunks_20260413\\chunk_169_252\\poly_kalshi_hourly_strategy_fee_aware_summary.csv",
+    "trades": "C:\\Users\\Leva\\Desktop\\pavel\\strategy_reports\\poly_kalshi_hourly_336_chunks_20260413\\chunk_169_252\\poly_kalshi_hourly_strategy_fee_aware_trades.csv",
+    "geometry": "C:\\Users\\Leva\\Desktop\\pavel\\strategy_reports\\poly_kalshi_hourly_336_chunks_20260413\\chunk_169_252\\poly_kalshi_hourly_strategy_fee_aware_geometry.csv",
+    "errors": "C:\\Users\\Leva\\Desktop\\pavel\\strategy_reports\\poly_kalshi_hourly_336_chunks_20260413\\chunk_169_252\\poly_kalshi_hourly_strategy_fee_aware_errors.csv"
+  },
+  "error_count": 0
+}
